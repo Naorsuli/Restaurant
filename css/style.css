@@ -218,7 +218,7 @@ body {
 .sectionbackgroundmain {
     margin: 0;
     padding: 0;
-    background: url(/Users/myskogospodarec/Desktop/site4/img/specialtys-bg.svg);
+    background: url(img/specialtys-bg.svg);
     width: 100%;
     height: 670px;
     background-size: 100%;
@@ -460,7 +460,7 @@ body {
 .sectionimg {
     margin: 0;
     padding: 0;
-    background: url(/Users/myskogospodarec/Desktop/site4/img/specialtys-bg.svg);
+    background: url(img/specialtys-bg.svg);
     width: 100%;
     padding: 20px 0px 145px;
     background-size: 100%;
