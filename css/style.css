@@ -1,0 +1,1034 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans" ;
+}
+.header {
+    margin: 0;
+    padding: 0;
+    background: url(/Users/myskogospodarec/Desktop/site4/img/header-bg.jpg);
+    background-size: 100%;
+    width: 100%;
+    height: 800px;
+    
+}
+
+.divtextheader {
+    
+    padding: 0;
+    display: flex;
+    width: 100%;
+    max-width: 1280px;
+    padding-top: 26px;
+    margin: auto;
+    justify-content: space-evenly;
+    
+    
+}
+
+.ullinktext {
+    
+    list-style-type: none;
+}
+
+.linktext {
+    padding: 20px;
+    text-decoration: none;
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 18px;
+    color: white;
+    
+}
+.textinsideheader {
+    display: flex;
+    padding: 0;
+}
+
+
+.divtextheaderleft {
+    width: 100%;
+    max-width: 250px;
+    display: flex;
+    align-items: center;
+}
+.maintextheader {
+    margin: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1350px;
+    padding-top: 132px;
+}
+
+.textheaderleft {
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: center;
+    color: #FFFFFF;
+    transform: rotate(-90deg);
+}
+
+.imgheaderright {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    max-width: 250px;
+    transform: rotate(-90deg);
+}
+
+.imgright {
+    transform: rotate(90deg);
+}
+
+.buttoncenter {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 100%;
+    max-width: 440px;
+    align-items: center;
+    margin: auto;
+    justify-content: space-around;
+}
+
+.textinsidecenter {
+
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    color: white;
+    text-align: center;
+}
+
+.h1center {
+    font-family: "Open Sans";
+    font-size: 96px;
+    line-height: 0px;
+    color: white;
+    padding-bottom: 30px;
+    text-transform: uppercase;
+}
+
+.divhr {
+    padding-bottom: 33px;
+}
+.hrcenter { 
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 60px;
+    height: 5.5px;
+    background: #E8C300;
+    border-radius: 50px;
+    margin: auto;
+    border: none;
+    
+    
+}
+
+.textbutton {
+    
+    font-family: "Open Sans";   
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 20px;
+    color: white;
+    padding: 15px 35px;
+    width: 159px;
+    border: none;
+}
+
+.textbutton1 {
+    background: #E8C300;
+    border-radius: 5px;
+}
+
+.textbutton2 {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6))
+    
+    ;
+}
+
+.sectionmainimgtext {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1280px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 30px;
+    align-items: center;
+
+}
+
+.textmainsectionleftside {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.h2text {
+    font-family: "Open Sans";
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+    margin: 15px;
+}
+
+.h3text {
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+}
+
+.textmainsection {
+    font-family: "Open Sans";
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+}
+
+.hrcenter2 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 60px;
+    height: 5.5px;
+    background: #E8C300;
+    border-radius: 50px;
+    border: none;
+    
+}
+
+
+.sectionbackgroundmain {
+    margin: 0;
+    padding: 0;
+    background: url(/Users/myskogospodarec/Desktop/site4/img/specialtys-bg.svg);
+    width: 100%;
+    height: 670px;
+    background-size: 100%;
+    margin-top: 100px;
+    
+}
+
+.divinsideback {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+
+}
+
+.textmainbackground {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    letter-spacing: 0.5em;
+}
+
+.divwithimgtext {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1280px;
+    display: flex;
+    
+    
+    
+}
+
+.imgmainbackground {
+    width: 100%;
+    max-width: 600px;
+    padding-right: 80px;
+}
+
+
+.h2text2{
+    font-family: "Open Sans";
+    font-size: 36px;
+    line-height: 48px;
+    color: white;
+    
+}
+
+
+.textbackgroundright {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+    margin: auto;
+}
+
+.h3text2 {
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+    color: white;
+}
+
+.textbackgroundsection {
+    font-family: "Open Sans";
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: white;
+}
+
+.hrcenter3 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 60px;
+    height: 5.5px;
+    background: #E8C300;
+    border-radius: 50px;
+    margin: auto;
+    border: none;
+}
+
+.formsection {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1280px;
+    display: flex;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    
+}
+
+.textinside {
+    box-sizing: border-box;
+    padding: 20px;
+    padding-right: 50px;
+
+    background: #E5E5E5;
+    border-radius: 5px; 
+    border: none;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;  
+    color: gray;  
+    display: block;
+    margin: 5px 5px;
+}
+
+.formbutton {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    box-sizing: border-box;
+    color: white;
+    width: 100%;
+    max-width: 480px;
+    display: block;
+    margin: auto;
+    background: #E8C300;
+    border-radius: 5px;
+    border: none;
+    padding: 20px;
+
+   
+}
+
+.formdiv {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 564px;
+    margin: auto;
+    
+   
+}
+
+.formleft {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formright {
+    display: flex;
+    flex-direction: column;
+}
+
+.allforms {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.sectionbetween {
+    width: 100%;
+    max-width: 1440px;
+    text-align: center;
+    
+}
+.textbetween {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    padding: 44px;
+}
+
+.menurestorant {
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Pizza {
+    max-width: 720px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.hrmenuPizza {
+    margin: 0;
+    padding: 0;
+}
+
+.textpizza {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 18px;
+    color: black;
+}
+
+
+.textmenupizza {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+.ptextmenupizza {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    color: gray;
+}
+
+.textdivmenupizza {
+    padding: 15px 0px;
+    
+}
+
+.h4text2 {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px; 
+    color: white;
+}
+
+.sectionimg {
+    margin: 0;
+    padding: 0;
+    background: url(/Users/myskogospodarec/Desktop/site4/img/specialtys-bg.svg);
+    width: 100%;
+    padding: 20px 0px 145px;
+    background-size: 100%;
+    margin-top: 100px;
+}
+
+.div2img {
+    width: 100%;
+    max-width: 1280px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    margin: auto;
+}
+
+.imgundersectionimg {
+    width: 100%;
+    max-width: 1440px;
+    display: flex;
+    margin: auto;
+}
+
+.allforms2 {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    max-width: 1280px;
+    
+}
+
+.formbuttondiv {
+    width: 100%;
+    max-width: 460px;
+    margin: auto;
+}
+
+.forms3 {
+    box-sizing: border-box;
+    padding: 20px;
+    background: #E5E5E5;
+    border-radius: 5px;
+    border: none;
+    width: 33%;
+    margin: 5px;
+}
+
+.form3 {
+    width: 100%;
+    max-width: 1280px;
+    display: flex;
+    margin: auto;
+}
+
+
+.formmessage {
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    padding: 0 5px;
+    box-sizing: border-box;
+}
+.formmessage2 {
+    box-sizing: border-box;
+    background: #E5E5E5;
+    border-radius: 5px;
+    border: none;
+    width: 100%;
+    padding: 20px;
+    height: 120px;
+    margin-top: 5px;
+    
+    
+
+}
+
+.form2button {
+    width: 100%;
+    max-width: 1280px;
+    text-align: right;
+    margin: auto;
+    
+
+    
+}
+
+.form2button2 {
+    width: 50%;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: #E8C300;
+    padding: 20px;
+    border-radius: 5px;
+    border: none;
+    margin: 5px;
+    color: white;
+}
+
+.mapsection {
+    width: 100%;
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+.iframe {
+    display: block;
+}
+
+
+.footer {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+
+.textfooter {
+    text-align: center;
+    margin: 0;
+    color: gray;
+    font-size: 10px;
+    padding: 40px;
+}
+
+.textcenter {
+    text-align: center;
+}
+@media(max-width: 1024px) {
+
+    .asdf{
+        width: 25%;
+    }
+    .asdf img{
+        display: block;
+        width: 100%;
+    }
+    .div2img div{
+        width: 50%;
+    }
+    .div2img div img{
+        width: 70%;
+        display: block;
+        margin: auto;
+    }
+    .imgform {
+        width: 99%;
+    }
+    .imgwithback {
+        width: 98%;
+    }
+    .h1center {
+        font-size: 50px;
+    }
+    .header {
+        height: 550px;
+    }
+    .maintextheader {
+        padding-top: 50px;
+    }
+
+    .sectionbackgroundmain {
+        height: 500px;
+    }
+    .h2text2 {
+        font-size: 25px;
+    }
+    .h3text2 {
+        font-size: 15px;
+    }
+    .textbackgroundsection {
+        font-size: 15px;
+    }
+    .h3text {
+        font-size: 15px;
+    }
+    .textmainsection {
+        font-size: 15px;
+    }
+    .textmainsectionleftside {
+        width: 50%;
+    }
+    .img_right {
+        width: 45%;
+    }
+}
+
+@media(max-width: 768px) {  
+    .linktext {
+        padding: 20px;
+        font-size: 10px;
+    }
+    .textheaderleft {
+        font-size: 10px;
+    }
+    .h {
+        width: 100px;
+    }
+    
+    .imgright {
+        width: 85%;
+    }
+    .h1center {
+        font-size: 30px;
+        padding-bottom: 10px;
+    }
+    .hrcenter {
+        max-width: 50px;
+        height: 3px;
+    }
+    .divhr {
+        padding-bottom: 20px;
+        
+    }
+    .textbutton1 {
+        padding: 5px 10px;
+        font-size: 9px;
+        max-width: 120px;
+    }
+    .textbutton {
+        padding: 5px 10px;
+        font-size: 9px;
+        max-width: 120px;
+    }
+    .header {
+        height: 420px;
+    }
+    .h2text {
+        font-size: 20px;
+        margin: 0;
+    }
+    .hrcenter2 {
+        max-width: 50px;
+        height: 3px;
+        
+    }
+
+    .h3text {
+        font-size: 13px;
+    }
+    .textmainsection {
+        font-size: 13px;
+    }
+    .h2text2 {
+        font-size: 20px;
+        margin: 0;
+    }
+    .hrcenter3 {
+        max-width: 50px;
+        height: 3px;
+    }
+    .h3text2 {
+        font-size: 11px;
+    }
+    .textbackgroundsection {
+        font-size: 11px;
+    }
+    .textinside {
+        padding: 13px;
+    }
+    .formbutton {
+        padding: 13px;
+        max-width: 370px;
+    }
+    .imgform {
+        width: 99%;
+        
+    }
+    .imgformdiv {
+        display: flex;
+        align-items: flex-end;
+    }
+    .sectionbackgroundmain {
+        height: 360px;
+    }
+    .imgwithback {
+        width: 99%;
+    }
+    
+    
+    .textmenupizza {
+        font-size: 13px;
+    }
+    .ptextmenupizza {
+        font-size: 10px;
+    }
+    .textpizza {
+        font-size: 10px;
+    }
+    .Pizza {
+        max-width: 600px;
+    }
+    .sectionimg {
+        padding: 10px 0 60px;
+    }
+    .textmainbackground {
+        padding: 10px;
+    }
+    .forms3 {
+        padding: 10px;
+        font-size: 10px;
+        
+    }
+    .formmessage2 {
+        padding: 10px;
+        font-size: 10px;
+        height: 80px;
+    }
+    .form2button2 {
+        padding: 10px;
+    }
+    .iframe {
+        height: 250px;
+        display: block;
+    }
+    .textfooter {
+        padding: 10px;
+    }
+    .footer {
+        height: 50px;
+        margin: 0;
+    }
+}
+
+@media(max-width: 375px) {
+    
+    .header { 
+        height: 300px;
+    }
+    .divtextheader {
+        padding-top: 10px;
+    }
+    .imgheader {
+        display: flex;
+    }
+
+    .imgheadervector {
+        width: 45px;
+    }
+    .linktext {
+        padding: 5px;
+        font-size: 8px;
+    }
+    .textinsidecenter {
+        font-size: 11px;
+    }
+    .h1center {
+        font-size: 15px;
+    }
+    .hrcenter {
+        max-width: 30px;
+        height: 3px;
+    }
+    
+    .textheaderleft {
+        font-size: 10px;
+    }
+    .imgright {
+        width: 98%;
+    }
+    .textbutton1 {
+        padding: 3px 8px;
+        font-size: 9px;
+        max-width: 100px;
+    }
+    .textbutton {
+        padding: 3px 8px;
+        font-size: 9px;
+        max-width: 100px;
+    }
+
+    .sectionmainimgtext {
+        flex-direction: column;
+
+    }
+    .textmainsectionleftside {
+        width: 100%;
+    }
+    .img_right {
+        width: 100%;
+    }
+    .sectionbackgroundmain {
+        margin-top: 50px;
+        height: 650px;
+    }
+    .divwithimgtext {
+        flex-direction: column;
+    }
+
+    .imgwithback { 
+        width: 100%;
+    }
+    .textmenupizza {
+        font-size: 11px;
+    }
+    .ptextmenupizza {
+        font-size: 9px;
+    }
+    .formsection {
+        margin: 50px 0px;
+    }
+    .sectionimg {
+        margin-top: 50px;
+    }
+    .imgundersectionimg {
+        margin-bottom: 50px;
+    }
+    .h3text {
+        font-size: 11px;
+    }
+}
+
+@media(max-width: 414px) {
+    .header { 
+        height: 300px;
+    }
+    .divtextheader {
+        padding-top: 10px;
+    }
+    .imgheader {
+        display: flex;
+    }
+
+    .imgheadervector {
+        width: 45px;
+    }
+    .linktext {
+        padding: 5px;
+        font-size: 8px;
+    }
+    .textinsidecenter {
+        font-size: 11px;
+    }
+    .h1center {
+        font-size: 15px;
+    }
+    .hrcenter {
+        max-width: 30px;
+        height: 3px;
+    }
+    
+    .textheaderleft {
+        font-size: 10px;
+    }
+    .imgright {
+        width: 98%;
+    }
+    .textbutton1 {
+        padding: 3px 8px;
+        font-size: 9px;
+        max-width: 100px;
+    }
+    .textbutton {
+        padding: 3px 8px;
+        font-size: 9px;
+        max-width: 100px;
+    }
+    .imgform {
+        display: none;
+    }
+    .sectionmainimgtext {
+        flex-direction: column;
+    }
+    .textmainsectionleftside {
+        width: 100%;
+    }
+    .img_right {
+        width: 100%;
+    }
+    .sectionbackgroundmain {
+        margin-top: 50px;
+        height: 650px;
+    }
+    .divwithimgtext {
+        flex-direction: column;
+    }
+
+    .imgwithback { 
+        width: 100%;
+    }
+    .textmenupizza {
+        font-size: 11px;
+    }
+    .ptextmenupizza {
+        font-size: 9px;
+    }
+    .formsection {
+        margin: 50px 0px;
+    }
+    .sectionimg {
+        margin-top: 50px;
+    }
+    .imgundersectionimg {
+        margin-bottom: 50px;
+    }
+    .h3text {
+        font-size: 11px;
+    }
+}
+
+@media(max-width: 320px) {
+    .imgheadervector {
+        width: 35px;
+    }
+    .linktext {
+        font-size: 7px;
+    }
+
+    .textinsidecenter {
+        font-size: 8px;
+    }
+    .textheaderleft {
+        font-size: 7px;
+    }
+    .imgright {
+        width: 100%;
+    }
+    .textbutton1 {
+        padding: 2px 5px;
+        font-size: 7px;
+        max-width: 80px;
+    }
+    .textbutton {
+        padding: 2px 5px;
+        font-size: 7px;
+        max-width: 80px;
+    }
+    .sectionbackgroundmain {
+        height: 600px;
+    }
+    .textinside {
+        margin: 3px;
+        font-size: 9px;
+    }
+    .formbutton {
+        font-size: 10px;
+        max-width: 270px;
+    }
+    .h3text2 {
+        font-size: 10px;
+    }
+    .textbackgroundsection {
+        font-size: 10px;
+    }
+    .h3text {
+        font-size: 10px;
+    }
+    .textmainsection {
+        font-size: 10px;
+    }
+    .formsection {
+        margin: 20px 0px;
+    }
+    .sectionimg {
+        margin-top: 20px;
+    }
+    .imgundersectionimg {
+        margin-bottom: 20px;
+    }
+    .textmenupizza {
+        font-size: 10px;
+    }
+    .ptextmenupizza {
+        font-size: 8px;
+    }
+    .textpizza {
+        font-size: 8px;
+    }
+    .h2text {
+        font-size: 15px;
+    }
+}
